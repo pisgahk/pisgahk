@@ -29,6 +29,7 @@
 
 # Pisgah's Repository 
 
-## Interested in:
-- AI engineering(neural networks, ML, Deep Learning)
-- Programming & Scripting Languages(Rust, Bash, Lua, Python)
+## [BETTER YOUR BEST 🌹]
+
+- Works with Neural Networks on a personal level. Optimising Neural Nets to run on the smallest of devices with the minimum of resources
+- Familiar with Rust, Lua, Python, Bash
