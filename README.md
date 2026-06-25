@@ -33,3 +33,4 @@
 
 - Rust engineer with a focus on AI infrastructure and developer tooling.
 󱘗, 󰢱, , 󰌠, 
+\udb85\ude17
