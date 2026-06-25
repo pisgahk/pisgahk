@@ -31,5 +31,5 @@
 
 ## [BETTER YOUR BEST 🌹]
 
-- Works with Neural Networks on a personal level. Optimising Neural Nets to run on the smallest of devices with the minimum of resources
-- Familiar with Rust, Lua, Python, Bash
+- Rust engineer with a focus on AI infrastructure and developer tooling.
+󱘗, 󰢱, , 󰌠, 
